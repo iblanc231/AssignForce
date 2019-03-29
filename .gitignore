@@ -1,0 +1,10 @@
+.sfdx
+.vscode
+.DS_Store
+*.json
+.vscode/
+.settings/
+test.txt
+.vim-force.com
+.sfdx/
+.settings
